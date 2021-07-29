@@ -1,5 +1,3 @@
 module.exports = {
-  rules: {
-    "no-console": "error",
-  },
+  extends: ["./bestpractice.js"],
 };
